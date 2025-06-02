@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "customerId": 1,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1
+      }
+    ],
+    "total": 999,
+    "date": "2025-05-14"
+  },
+  {
+    "id": 2,
+    "customerId": 2,
+    "items": [
+      {
+        "productId": 2,
+        "quantity": 2
+      }
+    ],
+    "total": 1798,
+    "date": "2025-05-13"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Ahmed",
+    "email": "ali@example.com",
+    "loyaltyPoints": 120
+  },
+  {
+    "id": 2,
+    "name": "Sarah Khalid",
+    "email": "sarah@example.com",
+    "loyaltyPoints": 85
+  }
+]

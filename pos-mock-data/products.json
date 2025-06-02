@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 14",
+    "price": 999,
+    "quantity": 15,
+    "category": "Smartphones",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23",
+    "price": 899,
+    "quantity": 10,
+    "category": "Smartphones",
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "name": "Sony Headphones WH-1000XM4",
+    "price": 349,
+    "quantity": 25,
+    "category": "Accessories",
+    "brand": "Sony"
+  }
+]

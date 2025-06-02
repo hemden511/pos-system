@@ -1,0 +1,10 @@
+{
+  "pos": {
+    "title": "Point of Sale",
+    "add": "Add to Cart",
+    "cart": "Cart",
+    "total": "Total",
+    "checkout": "Checkout",
+    "currency": "USD"
+  }
+}
